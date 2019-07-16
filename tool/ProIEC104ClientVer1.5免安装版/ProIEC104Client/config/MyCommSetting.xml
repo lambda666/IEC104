@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMyCommSetting>
+<Communication model="1" parse="0" direct="1"/>
+<TcpClient sourAddr="0.0.0.0" sourPort="0" destAddr="192.168.1.236" destPort="2404"/>
+<TcpServer sourAddr="0.0.0.0" sourPort="8007" maxLinks="1"/>
+<Udp sourAddr="0.0.0.0" sourPort="7878" destAddr="127.0.0.1" destPort="7878" addGroup="0" groupAddr="236.8.8.8"/>
+<Serial port="2" baud="9600" checkway="0" databits="8" stopbits="0"/>
+</CMyCommSetting>

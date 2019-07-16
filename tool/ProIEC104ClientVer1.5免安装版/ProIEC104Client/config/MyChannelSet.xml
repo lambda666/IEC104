@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 通讯接口配置文件	-->
+<Channel>
+    <Serial>
+        <COM chname="CH0" port="0" chpro="testpro.pro" check="0" chpar="aaa.xml" stopbits="1" chno="0" band="19200" chdesc="省调" databits="8"/>
+    </Serial>  
+    <Network>
+        <UDP sourip="192.168.100.102" chname="CH3" chpro="testpro.pro" chpar="aaa.xml" chno="3" chdesc="后台机" destport="7777" destip="192.168.100.108" sourport="8888"/>
+        <TCPSVR sourip="0.0.0.0" checkip="1" sourport="3333" checkport="0">
+            <SOCK chname="CH1" chpro="testpro.pro" chpar="aaa.xml" chno="1" chdesc="地调1" destport="4444" destip="192.168.100.102"/>
+            <SOCK chname="CH2" chpro="testpro.pro" chpar="aaa.xml" chno="2" chdesc="地调2" destport="5555" destip="192.168.100.108"/>
+        </TCPSVR>
+        <TCPCLI sourip="0.0.0.0" chname="CH4" chpro="testpro.pro" chpar="aaa.xml" chno="4" chdesc="设备" destport="7878" destip="192.168.100.108" sourport="0"/>
+    </Network>
+</Channel>

@@ -1,0 +1,8 @@
+<?xml version="1.0"  encoding="18030"?>
+<SELECTION>
+    <SWITCH desc="状态量"/>
+    <MEASURE desc="模拟量"/>
+    <COUNTER desc="累计量"/>
+    <CONTROLPOINT desc="控制量"/>
+    <CONTROLVALUE desc="调节量"/>
+</SELECTION>

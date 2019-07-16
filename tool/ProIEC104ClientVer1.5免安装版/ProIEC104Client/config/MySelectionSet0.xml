@@ -1,0 +1,492 @@
+<?xml version="1.0"  encoding="18030"?>
+<SELECTION>
+    <SWITCH desc="状态量">
+        <ELEMENT nodeidx="1" attribute="0" dataidx="0" idx="0"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="1" idx="1"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="2" idx="2"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="3" idx="3"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="4" idx="4"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="5" idx="5"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="6" idx="6"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="7" idx="7"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="8" idx="8"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="9" idx="9"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="10" idx="10"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="11" idx="11"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="12" idx="12"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="13" idx="13"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="14" idx="14"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="15" idx="15"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="16" idx="16"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="17" idx="17"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="18" idx="18"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="19" idx="19"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="20" idx="20"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="21" idx="21"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="22" idx="22"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="23" idx="23"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="24" idx="24"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="25" idx="25"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="26" idx="26"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="27" idx="27"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="28" idx="28"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="29" idx="29"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="30" idx="30"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="31" idx="31"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="32" idx="32"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="33" idx="33"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="34" idx="34"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="35" idx="35"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="36" idx="36"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="37" idx="37"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="38" idx="38"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="39" idx="39"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="40" idx="40"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="41" idx="41"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="42" idx="42"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="43" idx="43"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="44" idx="44"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="45" idx="45"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="46" idx="46"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="47" idx="47"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="48" idx="48"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="49" idx="49"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="50" idx="50"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="51" idx="51"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="52" idx="52"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="53" idx="53"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="54" idx="54"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="55" idx="55"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="56" idx="56"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="57" idx="57"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="58" idx="58"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="59" idx="59"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="60" idx="60"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="61" idx="61"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="62" idx="62"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="63" idx="63"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="0" idx="64"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="1" idx="65"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="2" idx="66"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="3" idx="67"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="4" idx="68"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="5" idx="69"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="6" idx="70"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="7" idx="71"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="8" idx="72"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="9" idx="73"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="10" idx="74"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="11" idx="75"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="12" idx="76"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="13" idx="77"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="14" idx="78"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="15" idx="79"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="16" idx="80"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="17" idx="81"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="18" idx="82"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="19" idx="83"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="20" idx="84"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="21" idx="85"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="22" idx="86"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="23" idx="87"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="24" idx="88"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="25" idx="89"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="26" idx="90"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="27" idx="91"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="28" idx="92"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="29" idx="93"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="30" idx="94"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="31" idx="95"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="32" idx="96"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="33" idx="97"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="34" idx="98"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="35" idx="99"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="36" idx="100"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="37" idx="101"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="38" idx="102"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="39" idx="103"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="40" idx="104"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="41" idx="105"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="42" idx="106"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="43" idx="107"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="44" idx="108"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="45" idx="109"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="46" idx="110"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="47" idx="111"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="48" idx="112"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="49" idx="113"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="50" idx="114"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="51" idx="115"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="52" idx="116"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="53" idx="117"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="54" idx="118"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="55" idx="119"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="56" idx="120"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="57" idx="121"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="58" idx="122"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="59" idx="123"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="60" idx="124"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="61" idx="125"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="62" idx="126"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="63" idx="127"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="0" idx="128"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="1" idx="129"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="2" idx="130"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="3" idx="131"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="4" idx="132"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="5" idx="133"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="6" idx="134"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="7" idx="135"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="8" idx="136"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="9" idx="137"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="10" idx="138"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="11" idx="139"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="12" idx="140"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="13" idx="141"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="14" idx="142"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="15" idx="143"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="16" idx="144"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="17" idx="145"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="18" idx="146"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="19" idx="147"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="20" idx="148"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="21" idx="149"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="22" idx="150"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="23" idx="151"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="24" idx="152"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="25" idx="153"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="26" idx="154"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="27" idx="155"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="28" idx="156"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="29" idx="157"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="30" idx="158"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="31" idx="159"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="32" idx="160"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="33" idx="161"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="34" idx="162"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="35" idx="163"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="36" idx="164"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="37" idx="165"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="38" idx="166"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="39" idx="167"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="40" idx="168"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="41" idx="169"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="42" idx="170"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="43" idx="171"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="44" idx="172"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="45" idx="173"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="46" idx="174"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="47" idx="175"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="48" idx="176"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="49" idx="177"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="50" idx="178"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="51" idx="179"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="52" idx="180"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="53" idx="181"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="54" idx="182"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="55" idx="183"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="56" idx="184"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="57" idx="185"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="58" idx="186"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="59" idx="187"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="60" idx="188"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="61" idx="189"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="62" idx="190"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="63" idx="191"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="0" idx="192"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="1" idx="193"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="2" idx="194"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="3" idx="195"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="4" idx="196"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="5" idx="197"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="6" idx="198"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="7" idx="199"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="8" idx="200"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="9" idx="201"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="10" idx="202"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="11" idx="203"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="12" idx="204"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="13" idx="205"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="14" idx="206"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="15" idx="207"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="16" idx="208"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="17" idx="209"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="18" idx="210"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="19" idx="211"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="20" idx="212"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="21" idx="213"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="22" idx="214"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="23" idx="215"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="24" idx="216"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="25" idx="217"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="26" idx="218"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="27" idx="219"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="28" idx="220"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="29" idx="221"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="30" idx="222"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="31" idx="223"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="32" idx="224"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="33" idx="225"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="34" idx="226"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="35" idx="227"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="36" idx="228"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="37" idx="229"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="38" idx="230"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="39" idx="231"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="40" idx="232"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="41" idx="233"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="42" idx="234"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="43" idx="235"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="44" idx="236"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="45" idx="237"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="46" idx="238"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="47" idx="239"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="48" idx="240"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="49" idx="241"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="50" idx="242"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="51" idx="243"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="52" idx="244"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="53" idx="245"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="54" idx="246"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="55" idx="247"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="56" idx="248"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="57" idx="249"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="58" idx="250"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="59" idx="251"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="60" idx="252"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="61" idx="253"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="62" idx="254"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="63" idx="255"/>
+    </SWITCH>
+    <MEASURE desc="模拟量">
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="0" minimum="-30000" maximum="30000" idx="0" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="1" minimum="-30000" maximum="30000" idx="1" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="2" minimum="-30000" maximum="30000" idx="2" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="3" minimum="-30000" maximum="30000" idx="3" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="4" minimum="-30000" maximum="30000" idx="4" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="5" minimum="-30000" maximum="30000" idx="5" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="6" minimum="-30000" maximum="30000" idx="6" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="7" minimum="-30000" maximum="30000" idx="7" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="8" minimum="-30000" maximum="30000" idx="8" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="9" minimum="-30000" maximum="30000" idx="9" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="10" minimum="-30000" maximum="30000" idx="10" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="11" minimum="-30000" maximum="30000" idx="11" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="12" minimum="-30000" maximum="30000" idx="12" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="13" minimum="-30000" maximum="30000" idx="13" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="14" minimum="-30000" maximum="30000" idx="14" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="15" minimum="-30000" maximum="30000" idx="15" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="16" minimum="-30000" maximum="30000" idx="16" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="17" minimum="-30000" maximum="30000" idx="17" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="18" minimum="-30000" maximum="30000" idx="18" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="19" minimum="-30000" maximum="30000" idx="19" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="20" minimum="-30000" maximum="30000" idx="20" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="21" minimum="-30000" maximum="30000" idx="21" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="22" minimum="-30000" maximum="30000" idx="22" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="23" minimum="-30000" maximum="30000" idx="23" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="24" minimum="-30000" maximum="30000" idx="24" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="25" minimum="-30000" maximum="30000" idx="25" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="26" minimum="-30000" maximum="30000" idx="26" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="27" minimum="-30000" maximum="30000" idx="27" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="28" minimum="-30000" maximum="30000" idx="28" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="29" minimum="-30000" maximum="30000" idx="29" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="30" minimum="-30000" maximum="30000" idx="30" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="1" threshold="1" attribute="0" ratio="1" dataidx="31" minimum="-30000" maximum="30000" idx="31" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="0" minimum="-30000" maximum="30000" idx="32" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="1" minimum="-30000" maximum="30000" idx="33" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="2" minimum="-30000" maximum="30000" idx="34" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="3" minimum="-30000" maximum="30000" idx="35" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="4" minimum="-30000" maximum="30000" idx="36" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="5" minimum="-30000" maximum="30000" idx="37" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="6" minimum="-30000" maximum="30000" idx="38" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="7" minimum="-30000" maximum="30000" idx="39" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="8" minimum="-30000" maximum="30000" idx="40" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="9" minimum="-30000" maximum="30000" idx="41" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="10" minimum="-30000" maximum="30000" idx="42" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="11" minimum="-30000" maximum="30000" idx="43" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="12" minimum="-30000" maximum="30000" idx="44" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="13" minimum="-30000" maximum="30000" idx="45" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="14" minimum="-30000" maximum="30000" idx="46" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="15" minimum="-30000" maximum="30000" idx="47" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="16" minimum="-30000" maximum="30000" idx="48" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="17" minimum="-30000" maximum="30000" idx="49" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="18" minimum="-30000" maximum="30000" idx="50" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="19" minimum="-30000" maximum="30000" idx="51" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="20" minimum="-30000" maximum="30000" idx="52" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="21" minimum="-30000" maximum="30000" idx="53" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="22" minimum="-30000" maximum="30000" idx="54" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="23" minimum="-30000" maximum="30000" idx="55" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="24" minimum="-30000" maximum="30000" idx="56" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="25" minimum="-30000" maximum="30000" idx="57" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="26" minimum="-30000" maximum="30000" idx="58" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="27" minimum="-30000" maximum="30000" idx="59" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="28" minimum="-30000" maximum="30000" idx="60" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="29" minimum="-30000" maximum="30000" idx="61" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="30" minimum="-30000" maximum="30000" idx="62" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="2" threshold="1" attribute="0" ratio="1" dataidx="31" minimum="-30000" maximum="30000" idx="63" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="0" minimum="-30000" maximum="30000" idx="64" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="1" minimum="-30000" maximum="30000" idx="65" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="2" minimum="-30000" maximum="30000" idx="66" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="3" minimum="-30000" maximum="30000" idx="67" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="4" minimum="-30000" maximum="30000" idx="68" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="5" minimum="-30000" maximum="30000" idx="69" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="6" minimum="-30000" maximum="30000" idx="70" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="7" minimum="-30000" maximum="30000" idx="71" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="8" minimum="-30000" maximum="30000" idx="72" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="9" minimum="-30000" maximum="30000" idx="73" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="10" minimum="-30000" maximum="30000" idx="74" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="11" minimum="-30000" maximum="30000" idx="75" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="12" minimum="-30000" maximum="30000" idx="76" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="13" minimum="-30000" maximum="30000" idx="77" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="14" minimum="-30000" maximum="30000" idx="78" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="15" minimum="-30000" maximum="30000" idx="79" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="16" minimum="-30000" maximum="30000" idx="80" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="17" minimum="-30000" maximum="30000" idx="81" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="18" minimum="-30000" maximum="30000" idx="82" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="19" minimum="-30000" maximum="30000" idx="83" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="20" minimum="-30000" maximum="30000" idx="84" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="21" minimum="-30000" maximum="30000" idx="85" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="22" minimum="-30000" maximum="30000" idx="86" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="23" minimum="-30000" maximum="30000" idx="87" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="24" minimum="-30000" maximum="30000" idx="88" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="25" minimum="-30000" maximum="30000" idx="89" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="26" minimum="-30000" maximum="30000" idx="90" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="27" minimum="-30000" maximum="30000" idx="91" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="28" minimum="-30000" maximum="30000" idx="92" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="29" minimum="-30000" maximum="30000" idx="93" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="30" minimum="-30000" maximum="30000" idx="94" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="3" threshold="1" attribute="0" ratio="1" dataidx="31" minimum="-30000" maximum="30000" idx="95" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="0" minimum="-30000" maximum="30000" idx="96" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="1" minimum="-30000" maximum="30000" idx="97" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="2" minimum="-30000" maximum="30000" idx="98" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="3" minimum="-30000" maximum="30000" idx="99" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="4" minimum="-30000" maximum="30000" idx="100" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="5" minimum="-30000" maximum="30000" idx="101" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="6" minimum="-30000" maximum="30000" idx="102" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="7" minimum="-30000" maximum="30000" idx="103" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="8" minimum="-30000" maximum="30000" idx="104" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="9" minimum="-30000" maximum="30000" idx="105" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="10" minimum="-30000" maximum="30000" idx="106" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="11" minimum="-30000" maximum="30000" idx="107" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="12" minimum="-30000" maximum="30000" idx="108" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="13" minimum="-30000" maximum="30000" idx="109" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="14" minimum="-30000" maximum="30000" idx="110" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="15" minimum="-30000" maximum="30000" idx="111" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="16" minimum="-30000" maximum="30000" idx="112" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="17" minimum="-30000" maximum="30000" idx="113" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="18" minimum="-30000" maximum="30000" idx="114" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="19" minimum="-30000" maximum="30000" idx="115" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="20" minimum="-30000" maximum="30000" idx="116" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="21" minimum="-30000" maximum="30000" idx="117" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="22" minimum="-30000" maximum="30000" idx="118" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="23" minimum="-30000" maximum="30000" idx="119" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="24" minimum="-30000" maximum="30000" idx="120" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="25" minimum="-30000" maximum="30000" idx="121" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="26" minimum="-30000" maximum="30000" idx="122" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="27" minimum="-30000" maximum="30000" idx="123" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="28" minimum="-30000" maximum="30000" idx="124" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="29" minimum="-30000" maximum="30000" idx="125" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="30" minimum="-30000" maximum="30000" idx="126" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+        <ELEMENT nodeidx="4" threshold="1" attribute="0" ratio="1" dataidx="31" minimum="-30000" maximum="30000" idx="127" basic="0" upperlimit="50000" lowerlimit="-50000"/>
+    </MEASURE>
+    <COUNTER desc="累计量">
+        <ELEMENT nodeidx="1" attribute="0" ratio="1" dataidx="0" idx="0" basic="0" datamax="999999" datastart="0"/>
+        <ELEMENT nodeidx="1" attribute="0" ratio="1" dataidx="1" idx="1" basic="0" datamax="999999" datastart="0"/>
+        <ELEMENT nodeidx="1" attribute="0" ratio="1" dataidx="2" idx="2" basic="0" datamax="999999" datastart="0"/>
+        <ELEMENT nodeidx="1" attribute="0" ratio="1" dataidx="3" idx="3" basic="0" datamax="999999" datastart="0"/>
+        <ELEMENT nodeidx="1" attribute="0" ratio="1" dataidx="4" idx="4" basic="0" datamax="999999" datastart="0"/>
+        <ELEMENT nodeidx="1" attribute="0" ratio="1" dataidx="5" idx="5" basic="0" datamax="999999" datastart="0"/>
+        <ELEMENT nodeidx="1" attribute="0" ratio="1" dataidx="6" idx="6" basic="0" datamax="999999" datastart="0"/>
+        <ELEMENT nodeidx="1" attribute="0" ratio="1" dataidx="7" idx="7" basic="0" datamax="999999" datastart="0"/>
+        <ELEMENT nodeidx="2" attribute="0" ratio="1" dataidx="0" idx="8" basic="0" datamax="999999" datastart="0"/>
+        <ELEMENT nodeidx="2" attribute="0" ratio="1" dataidx="1" idx="9" basic="0" datamax="999999" datastart="0"/>
+        <ELEMENT nodeidx="2" attribute="0" ratio="1" dataidx="2" idx="10" basic="0" datamax="999999" datastart="0"/>
+        <ELEMENT nodeidx="2" attribute="0" ratio="1" dataidx="3" idx="11" basic="0" datamax="999999" datastart="0"/>
+        <ELEMENT nodeidx="2" attribute="0" ratio="1" dataidx="4" idx="12" basic="0" datamax="999999" datastart="0"/>
+        <ELEMENT nodeidx="2" attribute="0" ratio="1" dataidx="5" idx="13" basic="0" datamax="999999" datastart="0"/>
+        <ELEMENT nodeidx="2" attribute="0" ratio="1" dataidx="6" idx="14" basic="0" datamax="999999" datastart="0"/>
+        <ELEMENT nodeidx="2" attribute="0" ratio="1" dataidx="7" idx="15" basic="0" datamax="999999" datastart="0"/>
+        <ELEMENT nodeidx="3" attribute="0" ratio="1" dataidx="0" idx="16" basic="0" datamax="999999" datastart="0"/>
+        <ELEMENT nodeidx="3" attribute="0" ratio="1" dataidx="1" idx="17" basic="0" datamax="999999" datastart="0"/>
+        <ELEMENT nodeidx="3" attribute="0" ratio="1" dataidx="2" idx="18" basic="0" datamax="999999" datastart="0"/>
+        <ELEMENT nodeidx="3" attribute="0" ratio="1" dataidx="3" idx="19" basic="0" datamax="999999" datastart="0"/>
+        <ELEMENT nodeidx="3" attribute="0" ratio="1" dataidx="4" idx="20" basic="0" datamax="999999" datastart="0"/>
+        <ELEMENT nodeidx="3" attribute="0" ratio="1" dataidx="5" idx="21" basic="0" datamax="999999" datastart="0"/>
+        <ELEMENT nodeidx="3" attribute="0" ratio="1" dataidx="6" idx="22" basic="0" datamax="999999" datastart="0"/>
+        <ELEMENT nodeidx="3" attribute="0" ratio="1" dataidx="7" idx="23" basic="0" datamax="999999" datastart="0"/>
+        <ELEMENT nodeidx="4" attribute="0" ratio="1" dataidx="0" idx="24" basic="0" datamax="999999" datastart="0"/>
+        <ELEMENT nodeidx="4" attribute="0" ratio="1" dataidx="1" idx="25" basic="0" datamax="999999" datastart="0"/>
+        <ELEMENT nodeidx="4" attribute="0" ratio="1" dataidx="2" idx="26" basic="0" datamax="999999" datastart="0"/>
+        <ELEMENT nodeidx="4" attribute="0" ratio="1" dataidx="3" idx="27" basic="0" datamax="999999" datastart="0"/>
+        <ELEMENT nodeidx="4" attribute="0" ratio="1" dataidx="4" idx="28" basic="0" datamax="999999" datastart="0"/>
+        <ELEMENT nodeidx="4" attribute="0" ratio="1" dataidx="5" idx="29" basic="0" datamax="999999" datastart="0"/>
+        <ELEMENT nodeidx="4" attribute="0" ratio="1" dataidx="6" idx="30" basic="0" datamax="999999" datastart="0"/>
+        <ELEMENT nodeidx="4" attribute="0" ratio="1" dataidx="7" idx="31" basic="0" datamax="999999" datastart="0"/>
+    </COUNTER>
+    <CONTROLPOINT desc="控制量">
+        <ELEMENT nodeidx="1" attribute="0" dataidx="0" idx="0" optype="0"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="1" idx="1" optype="0"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="2" idx="2" optype="0"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="3" idx="3" optype="0"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="4" idx="4" optype="0"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="5" idx="5" optype="0"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="6" idx="6" optype="0"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="7" idx="7" optype="0"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="8" idx="8" optype="0"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="9" idx="9" optype="0"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="10" idx="10" optype="0"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="11" idx="11" optype="0"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="12" idx="12" optype="0"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="13" idx="13" optype="0"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="14" idx="14" optype="0"/>
+        <ELEMENT nodeidx="1" attribute="0" dataidx="15" idx="15" optype="0"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="0" idx="16" optype="0"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="1" idx="17" optype="0"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="2" idx="18" optype="0"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="3" idx="19" optype="0"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="4" idx="20" optype="0"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="5" idx="21" optype="0"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="6" idx="22" optype="0"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="7" idx="23" optype="0"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="8" idx="24" optype="0"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="9" idx="25" optype="0"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="10" idx="26" optype="0"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="11" idx="27" optype="0"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="12" idx="28" optype="0"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="13" idx="29" optype="0"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="14" idx="30" optype="0"/>
+        <ELEMENT nodeidx="2" attribute="0" dataidx="15" idx="31" optype="0"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="0" idx="32" optype="0"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="1" idx="33" optype="0"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="2" idx="34" optype="0"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="3" idx="35" optype="0"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="4" idx="36" optype="0"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="5" idx="37" optype="0"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="6" idx="38" optype="0"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="7" idx="39" optype="0"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="8" idx="40" optype="0"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="9" idx="41" optype="0"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="10" idx="42" optype="0"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="11" idx="43" optype="0"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="12" idx="44" optype="0"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="13" idx="45" optype="0"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="14" idx="46" optype="0"/>
+        <ELEMENT nodeidx="3" attribute="0" dataidx="15" idx="47" optype="0"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="0" idx="48" optype="0"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="1" idx="49" optype="0"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="2" idx="50" optype="0"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="3" idx="51" optype="0"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="4" idx="52" optype="0"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="5" idx="53" optype="0"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="6" idx="54" optype="0"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="7" idx="55" optype="0"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="8" idx="56" optype="0"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="9" idx="57" optype="0"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="10" idx="58" optype="0"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="11" idx="59" optype="0"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="12" idx="60" optype="0"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="13" idx="61" optype="0"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="14" idx="62" optype="0"/>
+        <ELEMENT nodeidx="4" attribute="0" dataidx="15" idx="63" optype="0"/>
+    </CONTROLPOINT>
+    <CONTROLVALUE desc="调节量"/>
+</SELECTION>

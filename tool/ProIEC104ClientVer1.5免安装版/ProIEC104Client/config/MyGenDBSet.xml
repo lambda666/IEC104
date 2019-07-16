@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GENDB serialno="NEWCCU测试变电站" ver="TS.0.1" desc="TSJSNJ001" region="220KV" department="江苏省南京市" voltageclass="华东网调">
+<NODE idx="0" chno="0" desc="0号节点" workstatus="1" comm0status="0" comm1status="0" controlpoints="16" controlvalues="16" address="1" attribute="-2147483648">
+<SWITCH desc="状态量">
+<ELEMENT idx="0" desc="第0状态量" value="0" attribute="32768"/>
+<ELEMENT idx="1" desc="第1状态量" value="0" attribute="32768"/>
+<ELEMENT idx="2" desc="第2状态量" value="0" attribute="32768"/>
+<ELEMENT idx="3" desc="第3状态量" value="0" attribute="32768"/>
+<ELEMENT idx="4" desc="第4状态量" value="0" attribute="32768"/>
+<ELEMENT idx="5" desc="第5状态量" value="0" attribute="32768"/>
+<ELEMENT idx="6" desc="第6状态量" value="0" attribute="32768"/>
+<ELEMENT idx="7" desc="第7状态量" value="0" attribute="32768"/>
+<ELEMENT idx="8" desc="第8状态量" value="0" attribute="32768"/>
+<ELEMENT idx="9" desc="第9状态量" value="0" attribute="32768"/>
+<ELEMENT idx="10" desc="第10状态量" value="0" attribute="32768"/>
+<ELEMENT idx="11" desc="第11状态量" value="0" attribute="32768"/>
+<ELEMENT idx="12" desc="第12状态量" value="0" attribute="32768"/>
+<ELEMENT idx="13" desc="第13状态量" value="0" attribute="32768"/>
+<ELEMENT idx="14" desc="第14状态量" value="0" attribute="32768"/>
+<ELEMENT idx="15" desc="第15状态量" value="0" attribute="32768"/>
+<ELEMENT idx="16" desc="第16状态量" value="0" attribute="32768"/>
+<ELEMENT idx="17" desc="第17状态量" value="0" attribute="32768"/>
+<ELEMENT idx="18" desc="第18状态量" value="0" attribute="32768"/>
+<ELEMENT idx="19" desc="第19状态量" value="0" attribute="32768"/>
+<ELEMENT idx="20" desc="第20状态量" value="0" attribute="32768"/>
+<ELEMENT idx="21" desc="第21状态量" value="0" attribute="32768"/>
+<ELEMENT idx="22" desc="第22状态量" value="0" attribute="32768"/>
+<ELEMENT idx="23" desc="第23状态量" value="0" attribute="32768"/>
+<ELEMENT idx="24" desc="第24状态量" value="0" attribute="32768"/>
+<ELEMENT idx="25" desc="第25状态量" value="0" attribute="32768"/>
+<ELEMENT idx="26" desc="第26状态量" value="0" attribute="32768"/>
+<ELEMENT idx="27" desc="第27状态量" value="0" attribute="32768"/>
+<ELEMENT idx="28" desc="第28状态量" value="0" attribute="32768"/>
+<ELEMENT idx="29" desc="第29状态量" value="0" attribute="32768"/>
+<ELEMENT idx="30" desc="第30状态量" value="0" attribute="32768"/>
+<ELEMENT idx="31" desc="第31状态量" value="0" attribute="32768"/>
+<ELEMENT idx="32" desc="第32状态量" value="0" attribute="32768"/>
+<ELEMENT idx="33" desc="第33状态量" value="0" attribute="32768"/>
+<ELEMENT idx="34" desc="第34状态量" value="0" attribute="32768"/>
+<ELEMENT idx="35" desc="第35状态量" value="0" attribute="32768"/>
+<ELEMENT idx="36" desc="第36状态量" value="0" attribute="32768"/>
+<ELEMENT idx="37" desc="第37状态量" value="0" attribute="32768"/>
+<ELEMENT idx="38" desc="第38状态量" value="0" attribute="32768"/>
+<ELEMENT idx="39" desc="第39状态量" value="0" attribute="32768"/>
+<ELEMENT idx="40" desc="第40状态量" value="0" attribute="32768"/>
+<ELEMENT idx="41" desc="第41状态量" value="0" attribute="32768"/>
+<ELEMENT idx="42" desc="第42状态量" value="0" attribute="32768"/>
+<ELEMENT idx="43" desc="第43状态量" value="0" attribute="32768"/>
+<ELEMENT idx="44" desc="第44状态量" value="0" attribute="32768"/>
+<ELEMENT idx="45" desc="第45状态量" value="0" attribute="32768"/>
+<ELEMENT idx="46" desc="第46状态量" value="0" attribute="32768"/>
+<ELEMENT idx="47" desc="第47状态量" value="0" attribute="32768"/>
+<ELEMENT idx="48" desc="第48状态量" value="0" attribute="32768"/>
+<ELEMENT idx="49" desc="第49状态量" value="0" attribute="32768"/>
+<ELEMENT idx="50" desc="第50状态量" value="0" attribute="32768"/>
+<ELEMENT idx="51" desc="第51状态量" value="0" attribute="32768"/>
+<ELEMENT idx="52" desc="第52状态量" value="0" attribute="32768"/>
+<ELEMENT idx="53" desc="第53状态量" value="0" attribute="32768"/>
+<ELEMENT idx="54" desc="第54状态量" value="0" attribute="32768"/>
+<ELEMENT idx="55" desc="第55状态量" value="0" attribute="32768"/>
+<ELEMENT idx="56" desc="第56状态量" value="0" attribute="32768"/>
+<ELEMENT idx="57" desc="第57状态量" value="0" attribute="32768"/>
+<ELEMENT idx="58" desc="第58状态量" value="0" attribute="32768"/>
+<ELEMENT idx="59" desc="第59状态量" value="0" attribute="32768"/>
+<ELEMENT idx="60" desc="第60状态量" value="0" attribute="32768"/>
+<ELEMENT idx="61" desc="第61状态量" value="0" attribute="32768"/>
+<ELEMENT idx="62" desc="第62状态量" value="0" attribute="32768"/>
+<ELEMENT idx="63" desc="第63状态量" value="0" attribute="32768"/>
+<ELEMENT idx="64" desc="第64状态量" value="0" attribute="32768"/>
+<ELEMENT idx="65" desc="第65状态量" value="0" attribute="32768"/>
+<ELEMENT idx="66" desc="第66状态量" value="0" attribute="32768"/>
+<ELEMENT idx="67" desc="第67状态量" value="0" attribute="32768"/>
+<ELEMENT idx="68" desc="第68状态量" value="0" attribute="32768"/>
+<ELEMENT idx="69" desc="第69状态量" value="0" attribute="32768"/>
+<ELEMENT idx="70" desc="第70状态量" value="0" attribute="32768"/>
+<ELEMENT idx="71" desc="第71状态量" value="0" attribute="32768"/>
+<ELEMENT idx="72" desc="第72状态量" value="0" attribute="32768"/>
+<ELEMENT idx="73" desc="第73状态量" value="0" attribute="32768"/>
+<ELEMENT idx="74" desc="第74状态量" value="0" attribute="32768"/>
+<ELEMENT idx="75" desc="第75状态量" value="0" attribute="32768"/>
+<ELEMENT idx="76" desc="第76状态量" value="0" attribute="32768"/>
+<ELEMENT idx="77" desc="第77状态量" value="0" attribute="32768"/>
+<ELEMENT idx="78" desc="第78状态量" value="0" attribute="32768"/>
+<ELEMENT idx="79" desc="第79状态量" value="0" attribute="32768"/>
+<ELEMENT idx="80" desc="第80状态量" value="0" attribute="32768"/>
+<ELEMENT idx="81" desc="第81状态量" value="0" attribute="32768"/>
+<ELEMENT idx="82" desc="第82状态量" value="0" attribute="32768"/>
+<ELEMENT idx="83" desc="第83状态量" value="0" attribute="32768"/>
+<ELEMENT idx="84" desc="第84状态量" value="0" attribute="32768"/>
+<ELEMENT idx="85" desc="第85状态量" value="0" attribute="32768"/>
+<ELEMENT idx="86" desc="第86状态量" value="0" attribute="32768"/>
+<ELEMENT idx="87" desc="第87状态量" value="0" attribute="32768"/>
+<ELEMENT idx="88" desc="第88状态量" value="0" attribute="32768"/>
+<ELEMENT idx="89" desc="第89状态量" value="0" attribute="32768"/>
+<ELEMENT idx="90" desc="第90状态量" value="0" attribute="32768"/>
+<ELEMENT idx="91" desc="第91状态量" value="0" attribute="32768"/>
+<ELEMENT idx="92" desc="第92状态量" value="0" attribute="32768"/>
+<ELEMENT idx="93" desc="第93状态量" value="0" attribute="32768"/>
+<ELEMENT idx="94" desc="第94状态量" value="0" attribute="32768"/>
+<ELEMENT idx="95" desc="第95状态量" value="0" attribute="32768"/>
+<ELEMENT idx="96" desc="第96状态量" value="0" attribute="32768"/>
+<ELEMENT idx="97" desc="第97状态量" value="0" attribute="32768"/>
+<ELEMENT idx="98" desc="第98状态量" value="0" attribute="32768"/>
+<ELEMENT idx="99" desc="第99状态量" value="0" attribute="32768"/>
+<ELEMENT idx="100" desc="第100状态量" value="0" attribute="32768"/>
+<ELEMENT idx="101" desc="第101状态量" value="0" attribute="32768"/>
+<ELEMENT idx="102" desc="第102状态量" value="0" attribute="32768"/>
+<ELEMENT idx="103" desc="第103状态量" value="0" attribute="32768"/>
+<ELEMENT idx="104" desc="第104状态量" value="0" attribute="32768"/>
+<ELEMENT idx="105" desc="第105状态量" value="0" attribute="32768"/>
+<ELEMENT idx="106" desc="第106状态量" value="0" attribute="32768"/>
+<ELEMENT idx="107" desc="第107状态量" value="0" attribute="32768"/>
+<ELEMENT idx="108" desc="第108状态量" value="0" attribute="32768"/>
+<ELEMENT idx="109" desc="第109状态量" value="0" attribute="32768"/>
+<ELEMENT idx="110" desc="第110状态量" value="0" attribute="32768"/>
+<ELEMENT idx="111" desc="第111状态量" value="0" attribute="32768"/>
+<ELEMENT idx="112" desc="第112状态量" value="0" attribute="32768"/>
+<ELEMENT idx="113" desc="第113状态量" value="0" attribute="32768"/>
+<ELEMENT idx="114" desc="第114状态量" value="0" attribute="32768"/>
+<ELEMENT idx="115" desc="第115状态量" value="0" attribute="32768"/>
+<ELEMENT idx="116" desc="第116状态量" value="0" attribute="32768"/>
+<ELEMENT idx="117" desc="第117状态量" value="0" attribute="32768"/>
+<ELEMENT idx="118" desc="第118状态量" value="0" attribute="32768"/>
+<ELEMENT idx="119" desc="第119状态量" value="0" attribute="32768"/>
+<ELEMENT idx="120" desc="第120状态量" value="0" attribute="32768"/>
+<ELEMENT idx="121" desc="第121状态量" value="0" attribute="32768"/>
+<ELEMENT idx="122" desc="第122状态量" value="0" attribute="32768"/>
+<ELEMENT idx="123" desc="第123状态量" value="0" attribute="32768"/>
+<ELEMENT idx="124" desc="第124状态量" value="0" attribute="32768"/>
+<ELEMENT idx="125" desc="第125状态量" value="0" attribute="32768"/>
+<ELEMENT idx="126" desc="第126状态量" value="0" attribute="32768"/>
+<ELEMENT idx="127" desc="第127状态量" value="0" attribute="32768"/>
+</SWITCH>
+<MEASURE desc="模拟量">
+<ELEMENT idx="0" desc="第0模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="163840"/>
+<ELEMENT idx="1" desc="第1模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="163840"/>
+<ELEMENT idx="2" desc="第2模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="163840"/>
+<ELEMENT idx="3" desc="第3模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="163840"/>
+<ELEMENT idx="4" desc="第4模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="163840"/>
+<ELEMENT idx="5" desc="第5模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="163840"/>
+<ELEMENT idx="6" desc="第6模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="163840"/>
+<ELEMENT idx="7" desc="第7模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="163840"/>
+<ELEMENT idx="8" desc="第8模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="163840"/>
+<ELEMENT idx="9" desc="第9模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="163840"/>
+<ELEMENT idx="10" desc="第10模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="163840"/>
+<ELEMENT idx="11" desc="第11模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="163840"/>
+<ELEMENT idx="12" desc="第12模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="163840"/>
+<ELEMENT idx="13" desc="第13模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="163840"/>
+<ELEMENT idx="14" desc="第14模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="163840"/>
+<ELEMENT idx="15" desc="第15模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="163840"/>
+<ELEMENT idx="16" desc="第16模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="163840"/>
+<ELEMENT idx="17" desc="第17模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="163840"/>
+<ELEMENT idx="18" desc="第18模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="163840"/>
+<ELEMENT idx="19" desc="第19模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="163840"/>
+<ELEMENT idx="20" desc="第20模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="163840"/>
+<ELEMENT idx="21" desc="第21模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="163840"/>
+<ELEMENT idx="22" desc="第22模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="163840"/>
+<ELEMENT idx="23" desc="第23模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="163840"/>
+<ELEMENT idx="24" desc="第24模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="163840"/>
+<ELEMENT idx="25" desc="第25模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="163840"/>
+<ELEMENT idx="26" desc="第26模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="163840"/>
+<ELEMENT idx="27" desc="第27模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="163840"/>
+<ELEMENT idx="28" desc="第28模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="163840"/>
+<ELEMENT idx="29" desc="第29模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="30" desc="第30模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="31" desc="第31模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="32" desc="第32模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="33" desc="第33模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="34" desc="第34模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="35" desc="第35模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="36" desc="第36模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="37" desc="第37模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="38" desc="第38模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="39" desc="第39模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="40" desc="第40模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="41" desc="第41模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="42" desc="第42模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="43" desc="第43模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="44" desc="第44模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="45" desc="第45模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="46" desc="第46模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="47" desc="第47模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="48" desc="第48模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="49" desc="第49模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="50" desc="第50模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="51" desc="第51模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="52" desc="第52模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="53" desc="第53模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="54" desc="第54模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="55" desc="第55模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="56" desc="第56模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="57" desc="第57模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="58" desc="第58模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="59" desc="第59模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="60" desc="第60模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="61" desc="第61模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="62" desc="第62模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+<ELEMENT idx="63" desc="第63模拟量" ratio="1" basic="0" maximum="100000" minimum="-100000" threshold="0" upperlimit="50000" lowerlimit="-50000" value="0" attribute="0"/>
+</MEASURE>
+<COUNTER desc="累计量">
+<ELEMENT idx="0" desc="0号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="0" attribute="0"/>
+<ELEMENT idx="1" desc="1号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="1" attribute="0"/>
+<ELEMENT idx="2" desc="2号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="2" attribute="0"/>
+<ELEMENT idx="3" desc="3号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="3" attribute="0"/>
+<ELEMENT idx="4" desc="4号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="4" attribute="0"/>
+<ELEMENT idx="5" desc="5号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="5" attribute="0"/>
+<ELEMENT idx="6" desc="6号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="6" attribute="0"/>
+<ELEMENT idx="7" desc="7号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="7" attribute="0"/>
+<ELEMENT idx="8" desc="8号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="8" attribute="0"/>
+<ELEMENT idx="9" desc="9号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="9" attribute="0"/>
+<ELEMENT idx="10" desc="10号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="10" attribute="0"/>
+<ELEMENT idx="11" desc="11号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="11" attribute="0"/>
+<ELEMENT idx="12" desc="12号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="12" attribute="0"/>
+<ELEMENT idx="13" desc="13号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="13" attribute="0"/>
+<ELEMENT idx="14" desc="14号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="14" attribute="0"/>
+<ELEMENT idx="15" desc="15号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="15" attribute="0"/>
+<ELEMENT idx="16" desc="16号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="16" attribute="0"/>
+<ELEMENT idx="17" desc="17号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="17" attribute="0"/>
+<ELEMENT idx="18" desc="18号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="18" attribute="0"/>
+<ELEMENT idx="19" desc="19号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="19" attribute="0"/>
+<ELEMENT idx="20" desc="20号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="20" attribute="0"/>
+<ELEMENT idx="21" desc="21号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="21" attribute="0"/>
+<ELEMENT idx="22" desc="22号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="22" attribute="0"/>
+<ELEMENT idx="23" desc="23号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="23" attribute="0"/>
+<ELEMENT idx="24" desc="24号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="24" attribute="0"/>
+<ELEMENT idx="25" desc="25号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="25" attribute="0"/>
+<ELEMENT idx="26" desc="26号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="26" attribute="0"/>
+<ELEMENT idx="27" desc="27号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="27" attribute="0"/>
+<ELEMENT idx="28" desc="28号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="28" attribute="0"/>
+<ELEMENT idx="29" desc="29号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="29" attribute="0"/>
+<ELEMENT idx="30" desc="30号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="30" attribute="0"/>
+<ELEMENT idx="31" desc="31号累计量" ratio="1" basic="0" datastart="0" datamax="999999" value="31" attribute="0"/>
+</COUNTER>
+<CONTROLPOINT desc="控制点">
+<ELEMENT idx="0" desc="0号控制点" attribute="0"/>
+<ELEMENT idx="1" desc="1号控制点" attribute="0"/>
+<ELEMENT idx="2" desc="2号控制点" attribute="0"/>
+<ELEMENT idx="3" desc="3号控制点" attribute="0"/>
+<ELEMENT idx="4" desc="4号控制点" attribute="0"/>
+<ELEMENT idx="5" desc="5号控制点" attribute="0"/>
+<ELEMENT idx="6" desc="6号控制点" attribute="0"/>
+<ELEMENT idx="7" desc="7号控制点" attribute="0"/>
+<ELEMENT idx="8" desc="8号控制点" attribute="0"/>
+<ELEMENT idx="9" desc="9号控制点" attribute="0"/>
+<ELEMENT idx="10" desc="10号控制点" attribute="0"/>
+<ELEMENT idx="11" desc="11号控制点" attribute="0"/>
+<ELEMENT idx="12" desc="12号控制点" attribute="0"/>
+<ELEMENT idx="13" desc="13号控制点" attribute="0"/>
+<ELEMENT idx="14" desc="14号控制点" attribute="0"/>
+<ELEMENT idx="15" desc="15号控制点" attribute="0"/>
+</CONTROLPOINT>
+<CONTROLVALUE desc="调节值">
+<ELEMENT idx="0" desc="0号调节值" attribute="0"/>
+<ELEMENT idx="1" desc="1号调节值" attribute="0"/>
+<ELEMENT idx="2" desc="2号调节值" attribute="0"/>
+<ELEMENT idx="3" desc="3号调节值" attribute="0"/>
+<ELEMENT idx="4" desc="4号调节值" attribute="0"/>
+<ELEMENT idx="5" desc="5号调节值" attribute="0"/>
+<ELEMENT idx="6" desc="6号调节值" attribute="0"/>
+<ELEMENT idx="7" desc="7号调节值" attribute="0"/>
+<ELEMENT idx="8" desc="8号调节值" attribute="0"/>
+<ELEMENT idx="9" desc="9号调节值" attribute="0"/>
+<ELEMENT idx="10" desc="10号调节值" attribute="0"/>
+<ELEMENT idx="11" desc="11号调节值" attribute="0"/>
+<ELEMENT idx="12" desc="12号调节值" attribute="0"/>
+<ELEMENT idx="13" desc="13号调节值" attribute="0"/>
+<ELEMENT idx="14" desc="14号调节值" attribute="0"/>
+<ELEMENT idx="15" desc="15号调节值" attribute="0"/>
+</CONTROLVALUE>
+</NODE>
+</GENDB>

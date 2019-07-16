@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMyIecSetting>
+<CreateDB modify="0"/>
+<SourAddress address="1"/>
+<YX infstart="1" infnum="128"/>
+<YC infstart="16385" infnum="64"/>
+<YM infstart="25600" infnum="32"/>
+<YK infstart="24577" infnum="16"/>
+<YT infstart="25089" infnum="16"/>
+</CMyIecSetting>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0"  encoding="18030"?>
+<Watch>
+  <PROGRAM name="CommDrv" activewait="60" singleprocess="1" autorun="1" startwait="0"/>
+  <PROGRAM name="NewCCU" activewait="60" singleprocess="1" autorun="1" startwait="0"/>
+  <PROGRAM name="WarnSvr" activewait="60" singleprocess="1" autorun="1" startwait="0"/>
+</Watch>
